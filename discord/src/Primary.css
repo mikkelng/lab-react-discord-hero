@@ -1,0 +1,12 @@
+main {
+    display: flex;
+    flex-flow: row wrap;
+    width: 25vw;
+    margin: 10vh 5vw;
+}
+
+h1 {
+    text-transform: uppercase;
+    width:  25vw;
+}
+

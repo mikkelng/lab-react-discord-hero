@@ -1,0 +1,20 @@
+button {
+    border-radius: 100px;
+    padding: 1vh 5vw; 
+    margin: 2vh 0;
+}
+
+button:after {
+    content: "\A"; 
+    white-space: pre-wrap;
+}
+
+#button-one {
+    background-color: white;
+    color: #23272A;
+}
+
+#button-two {
+    background-color: #23272A;
+    color: white; 
+}
