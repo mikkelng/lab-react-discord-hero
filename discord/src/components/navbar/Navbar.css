@@ -1,13 +1,27 @@
+.logo-container {
+  width: 50vw;
+}
+
 .logo {
     width: 120px;
-    position: absolute;
-    top: 30px;
-    left: 30px;
+    margin-left: 5vw;
   }
+
+.menu-container {
+  width: 50vw;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.menu-icon {
+  margin-right: 5vw;
   
-  .menu-icon {
-    position: absolute;
-    top: 30px;
-    right: 30px;
-  }
+}
   
+
+nav {
+  /* height: 15vh; */
+  display: flex;
+  align-items: center;
+  padding-top: 1.5vh;
+}
