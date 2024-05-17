@@ -1,0 +1,27 @@
+.logo-container {
+  width: 50vw;
+}
+
+.logo {
+    width: 120px;
+    margin-left: 5vw;
+  }
+
+.menu-container {
+  width: 50vw;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.menu-icon {
+  margin-right: 5vw;
+  
+}
+  
+
+nav {
+  /* height: 15vh; */
+  display: flex;
+  align-items: center;
+  padding-top: 1.5vh;
+}

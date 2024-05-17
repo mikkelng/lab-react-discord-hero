@@ -1,7 +1,5 @@
 button {
-    border-radius: 100px;
-    padding: 1vh 5vw; 
-    margin: 2vh 0;
+    margin: 1.5vh 0;
 }
 
 button:after {
@@ -12,9 +10,13 @@ button:after {
 #button-one {
     background-color: white;
     color: #23272A;
+    border-radius: 28px;
+    padding: 1.5vh 2vw; 
 }
 
 #button-two {
     background-color: #23272A;
     color: white; 
+    border-radius: 28px;
+    padding: 1.5vh 2vw; 
 }
